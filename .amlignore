@@ -1,0 +1,17 @@
+####### Ignore everything ########
+**
+
+####### Except these files #######
+!examples
+!recommenders/
+!tests
+!README.md
+!MANIFEST.in
+!setup.py
+!tox.ini
+
+#####################################################
+# Ignore unnecessary files inside allowed directories
+# This should go after the allowed directories
+#####################################################
+**/__pycache__

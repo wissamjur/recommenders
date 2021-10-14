@@ -117,6 +117,7 @@ config.json
 aml_config/
 aml_scripts/
 aml_data/
+reco.yaml
 
 # Spark
 spark-warehouse/
