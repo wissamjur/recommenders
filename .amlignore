@@ -2,13 +2,14 @@
 **
 
 ####### Except these files #######
-!examples
-!recommenders/
-!tests
+!examples/**.ipynb
+!recommenders/**.py
+!tests/**.py
 !README.md
 !MANIFEST.in
 !setup.py
 !tox.ini
+!reco.yaml
 
 #####################################################
 # Ignore unnecessary files inside allowed directories
